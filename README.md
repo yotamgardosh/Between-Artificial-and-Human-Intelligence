@@ -1,5 +1,7 @@
 # Between-Artificial-and-Human-Intelligence
 
+<img src ="https://media.licdn.com/dms/image/D4E12AQHynFnAiva5Dw/article-cover_image-shrink_720_1280/0/1684425430811?e=1720656000&v=beta&t=Ts171jxRKwCfWJqBhIW1z3Qx8VlDEoK-EjYWBB4U64s" width= "400" height= "250">
+
 This repository contains materials and projects related to the course "Between-Artificial-and-Human-Intelligence". The course explores the intersection of cognitive science and artificial intelligence in understanding how language is acquired, processed, and represented both in the human brain and in AI systems.
 
 ## Course Description
