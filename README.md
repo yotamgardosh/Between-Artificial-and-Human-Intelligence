@@ -33,6 +33,9 @@ This repository includes Jupyter notebooks, data files, and reference materials 
 - Project 3: In-Context Learning
   Analyzing the potential of in-context learning to capture complex cognitive patterns without model retraining.
 
+- Final Project: Cognitive biases in LLM
+  I conducted an analysis of language models to investigate their susceptibility to cognitive biases, employing various techniques to understand and potentially mitigate biases. 
+
 ## Tools and Libraries
 
 Throughout the course, we have utilized various tools and libraries, including:
